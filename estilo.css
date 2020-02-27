@@ -1,0 +1,56 @@
+#content p {
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: justify;
+    margin-right: 15px;
+    max-width: 1194px;
+    color: #FFFFFF;
+}
+#content h1 {
+    text-align: left;
+    padding-left: 15px;
+    color: #FFFFFF;
+}
+#content img {
+    float: left;
+}
+
+#content a #Image1 {
+    text-align: center;
+    width: auto;
+}
+#content {
+    border-width: medium;
+    background-color: #181818;
+}
+#content img {
+    position: static;
+    display: run-in;
+    padding-right: 15px;
+}
+#Tabla_01 {
+    background-color: #3F444E;
+}
+tr td table {
+    background-color: #3F444E;
+}
+tr td p {
+    text-align: justify;
+    padding-left: 8px;
+    padding-right: 15px;
+}
+#Tabla_01 tr td {
+    background-color: #F8F8F8;
+    background-image: url(images/pelicula1_09.png);
+}
+#Tabla_01 tr {
+    background-color: #3E444E;
+}
+td p img {
+    float: left;
+    padding-right: 8px;
+}
+tr td h1 {
+    padding-left: 8px;
+    padding-right: 8px;
+}
